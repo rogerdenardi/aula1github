@@ -13,6 +13,9 @@ public class program {
 		System.out.println("Informe um nome: ");
 		String nome = entrada.next();
 		System.out.println("Nome: "+nome);
+		System.out.println("Informe o cargo: ");
+		String cargo = entrada.next();
+		System.out.println("Cargo: "+cargo);
 
 	}
 
