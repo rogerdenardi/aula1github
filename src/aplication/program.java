@@ -10,6 +10,9 @@ public class program {
 		System.out.println("Informe um número: ");
 		int numero = entrada.nextInt();
 		System.out.println("Número: "+numero);
+		System.out.println("Informe um nome: ");
+		String nome = entrada.next();
+		System.out.println("Nome: "+nome);
 
 	}
 
